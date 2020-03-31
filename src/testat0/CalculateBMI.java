@@ -82,9 +82,9 @@ public class CalculateBMI {
     }
 
     private int testMe(String something) {
-         System.out.println("test");    
-         System.out.println("This is bmimachine.");
-         return  something.length();
+        System.out.println("test");
+        System.out.println("This is bmimachine.");
+        return something.length();
     }
 
     private static String checkPerson(String name) {
